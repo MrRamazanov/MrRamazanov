@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and C++
 - 🌱 I’m currently learning C++ and AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ramazanov.emil.06@mail.ru
 
 <!---
 MrRamazanov/MrRamazanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
